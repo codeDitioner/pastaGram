@@ -1,0 +1,6 @@
+framework module Pods_pastaGramTests {
+  umbrella header "Pods-pastaGramTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
